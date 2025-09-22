@@ -29,3 +29,11 @@ Conclusion : We use separate methods (writeFile, readFile, modifyFile)
 Clarity: each method handles one responsibility (Single Responsibility Principle).
 Reusability: you can call these methods from other programs or tests easily.
 Maintainability: fixes or enhancements to reading/writing are localized to one me
+
+OUTPUT :![Image](https://github.com/user-attachments/assets/2f660c4a-ca45-4a78-a312-ef4e486cb40b)
+
+
+
+
+
+
